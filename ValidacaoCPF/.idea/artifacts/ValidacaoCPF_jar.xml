@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ValidacaoCPF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ValidacaoCPF_jar</output-path>
+    <root id="archive" name="ValidacaoCPF.jar">
+      <element id="module-output" name="ValidacaoCPF" />
+    </root>
+  </artifact>
+</component>
